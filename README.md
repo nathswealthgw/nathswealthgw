@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0080FF&center=true&vCenter=true&width=435&lines=Hello👋+I'm+Nathswealth+Georgewill🤝" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0080FF&center=true&vCenter=true&width=435&lines=Hello +I'm+Nathswealth+Georgewill" alt="Typing SVG" />
 </div>
 
 ---
 
 ## About Me
 
-I’m a senior AI/ML Engineer with over a decade of experience building complex projects locally like [MultiChain Fraud Intelligence system](https://github.com/nathswealthgw/blockchain-fraud-detection), designing, deploying, and scaling high-performance machine learning systems across fintech, SaaS, and decentralized infrastructure environments.
+I’m a senior AI/ML Engineer with over a decade of experience building complex projects like [MultiChain Fraud Intelligence system](https://github.com/nathswealthgw/blockchain-fraud-detection), designing, deploying, and scaling high-performance machine learning systems across fintech, SaaS, and decentralized infrastructure environments.
 
 I specialize in translating research-grade AI into production-grade systems that operate reliably at scale.
 
