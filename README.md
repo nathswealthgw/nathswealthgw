@@ -74,5 +74,5 @@ Federated learning and decentralized AI strategies where appropriate.
 
 - 💼 Open to remote roles
 - 📧 [Email me](mailto:nathswealthgw@gmail.com) for collaborations or opportunities
-- 🔗 [LinkedIn](https://linkedin.com/in/.....)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nathswealthgw-ai-ml/)
   
